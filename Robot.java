@@ -10,7 +10,6 @@ public class Robot extends Actor
 {
     private GreenfootImage robotimage1= new GreenfootImage("man01.png");
     private GreenfootImage robotimage2= new GreenfootImage("man02.png");
-    private GreenfootImage gameover.png
     private int lives; 
     private int score;
     private int pizzaEaten;
