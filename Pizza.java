@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class Pizza here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Peyton Dunn 
+ * @version 4/2/21
  */
 public class Pizza extends Actor
 {
