@@ -96,7 +96,6 @@ public class Robot extends Actor
     {
         if(lives > 0)
         {
-
             Greenfoot.stop(); 
         }
     }
